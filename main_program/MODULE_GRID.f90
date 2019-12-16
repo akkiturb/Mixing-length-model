@@ -8,8 +8,7 @@ CONTAINS
 ! SUBROUTINE TO GENERATE 1D STRETCHED GRID WITH N1 POINTS
 ! This subroutine basically divides the domain of length 1 unit from 0 to 1 in N1 number points
 ! According to the requirement, the discretized points have to be multiplied with length H to have a grid of size H. If this is not multiplied, it wil simply create the mesh from 0 to 1 
- ! Original code : http://imp-turbulence.ec-lille.fr/Webpage/Laval/Lectures/TD-Programs.tar
-!==================================================================
+ !==================================================================
 SUBROUTINE SGRID_GENERATOR(N1,ALPHA,YPAD)
 IMPLICIT NONE 
 REAL(8),INTENT(IN)				::ALPHA
