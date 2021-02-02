@@ -9,9 +9,8 @@ To write a simple program for a turbulent model for a simplified case and compar
 ## Prerequisites
 
 
-- Go to build directory : 
-    cd build 
-    rm -f CMakeCache.txt
+- gfortran 4.8.4+
+- python   
 
 - Create Makefile with one of these command choosing compiler (gfortran, ifort, ...) 
   and build type (Debug, Release, ...).
