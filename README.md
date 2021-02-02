@@ -10,7 +10,8 @@ To write a simple program for a turbulent model for a simplified case and compar
 
 
 - gfortran 4.8.4+
-- python   
+- python  
+  - To compile with compiler Release flags only  
 
 - Create Makefile with one of these command choosing compiler (gfortran, ifort, ...) 
   and build type (Debug, Release, ...).
