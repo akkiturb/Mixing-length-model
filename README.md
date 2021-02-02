@@ -11,14 +11,10 @@ To write a simple program for a turbulent model for a simplified case and compar
 
 - gfortran 4.8.4+
 - python  
-  - To compile with compiler Release flags only  
+  - numpy 2.1.0+ (optional)
+  - matplotlib 1.13.1+ (optional)  
 
-- Create Makefile with one of these command choosing compiler (gfortran, ifort, ...) 
-  and build type (Debug, Release, ...).
-  
-  - To compile with compiler Release flags only  
-  `FC=gfortran cmake -D PLATFROM_NAME=lmlm6-75 CMAKE_BUILD_TYPE=Debug  ..`
-  `FC=mpif90.openmpi cmake -D PLATFROM_NAME=lmlm6-75 CMAKE_BUILD_TYPE=Debug  ..`
+
 
 
 
