@@ -18,7 +18,7 @@ To write a simple program for a turbulent model for a simplified case and compar
 ### Download ### 
 
 - Clone the repository with all the development phase data by:
-  `https://github.com/akshay23sept/Mixing-length-model"`
+      `https://github.com/akshay23sept/Mixing-length-model"`
  
 
 
