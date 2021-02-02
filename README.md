@@ -18,8 +18,8 @@ To write a simple program for a turbulent model for a simplified case and compar
 ### Download ### 
 
 - Clone the repository with all the development phase data by:
-  `LIBSloc="/home/solak/Workdir/tempdir/Workdir/fortan_project/myLib/hdf5"`
-  `export LD_LIBRARY_PATH="${LIBSloc}/lib"`
+  `https://github.com/akshay23sept/Mixing-length-model"`
+ 
 
 
 
