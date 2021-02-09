@@ -23,7 +23,7 @@ To write a simple program for a turbulent model for a simplified case and compar
 
 ## Issues:
 - Feel free to raise an issue at 
-       `<a href="https://github.com/akshay23sept/Scenario-Based-Forecast-Study">`
+       https://github.com/akshay23sept/Scenario-Based-Forecast-Study
   
   <a href="https://github.com/akshay23sept/Scenario-Based-Forecast-Study">https://github.com/akshay23sept/Mixing-length-model</a>.
 
