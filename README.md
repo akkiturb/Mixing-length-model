@@ -13,7 +13,7 @@ The ﬂow is driven by virtue of viscous drag force acting on the ﬂuid, but ma
 
 
 <p align="center">
-<code>Figure</code>: Illustration of geometry
+<code>Figure:</code> Illustration of geometry
 </p>
 
 <p align="center">
