@@ -11,7 +11,6 @@ To write a simple program for a turbulent model for a simplified case and compar
 The ﬂow is driven by virtue of viscous drag force acting on the ﬂuid, but may additionally be motivated by an applied pressure gradient in the ﬂow direction which is then a case combined with the <code>Poiseuille ﬂow</code>. <code>Shear-driven ﬂuid motion</code> is one of the most common example of couette flow.
 
 
-is a classic example of shear-driven ﬂuid motion. It can be described as the ﬂow of a viscous ﬂuid between two parallel surfaces(walls), one of which is moving tangentially relative to the other. The ﬂow is driven by virtue of viscous drag force acting on the ﬂuid, but may additionally be motivated by an applied pressure gradient in the ﬂow direction which is then a case combined with the Poiseuille ﬂow. Following ﬁgure represents a simpliﬁed geometry for these type of ﬂows:
 
 <p align="center">
 <code>Figure</code>: Illustration of geometry
