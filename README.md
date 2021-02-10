@@ -7,7 +7,7 @@ Masters program in Turbulence. The project was a supervised of Dr. Jean-Philippe
 To write a simple program for a turbulent model for a simplified case and compare the results with the <code>theoritical solutions</code> in                         the <code>laminar case</code> and with the <code>experimental</code> results in <code>turbulent case</code>. Several parameters such as grid stretching, number of grid points near the walls are investegated.
 
 <p align="center">
-<code>Note</code>: The codes are parallelized and uses multiple CPU's which reduces the computation and elapsed time.
+<code>Note</code>: Illustration of geometry
 </p>
 
 <p align="center">
