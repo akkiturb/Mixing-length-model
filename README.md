@@ -11,7 +11,7 @@ To write a simple program for a turbulent model for a simplified case and compar
 </p>
 
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/akshay23sept/Scenario-Based-Forecast-Study/blob/main/images_scripts/uam_algorithm.png"><img src="https://github.com/akshay23sept/Scenario-Based-Forecast-Study/blob/main/images_scripts/uam_algorithm.png" alt="Screenshot" width="750" height="450" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/akshay23sept/Mixing-length-model/blob/master/refrences/Geometry.png"><img src="https://github.com/akshay23sept/Mixing-length-model/blob/master/refrences/Geometry.png" alt="Screenshot" width="750" height="450" style="max-width:100%;"></a>
 </p>
 
 ## Prerequisites
